@@ -16,7 +16,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="New Button"
+        android:text="登录"
         android:id="@+id/button"
         android:layout_centerVertical="true"
         android:layout_alignParentEnd="true" />
@@ -32,9 +32,11 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Button"
+        android:text="获取验证码"
         android:id="@+id/button2"
         android:layout_below="@+id/editText"
         android:layout_alignEnd="@+id/editText"
         android:layout_toLeftOf="@+id/editText2" />
+
+
 </RelativeLayout>
